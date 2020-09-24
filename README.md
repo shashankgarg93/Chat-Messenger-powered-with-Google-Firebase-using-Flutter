@@ -14,7 +14,9 @@ We’re going to build a modern messaging app where users can sign up and log in
 
 ## To edit it as yours, Make a google firebase project and add it to project replacing mine.
 1.Clone this project.
+
 2.Make your own firebase project.
-3.Read the documenation 
+
+3.Read the documenation.
 
 https://firebase.google.com/docs/flutter/setup
