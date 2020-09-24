@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169156989019",
+    "firebase_url": "https://flashchat-cc2d3.firebaseio.com",
+    "project_id": "flashchat-cc2d3",
+    "storage_bucket": "flashchat-cc2d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169156989019:android:475afbd22a2af79666af7e",
+        "android_client_info": {
+          "package_name": "co.shashankgarg.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169156989019-ges031np7i23962f10g53n1j8j42ugvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWmmVuZ0FxWnsU4QWoRqN3F-w5sgDtrHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169156989019-ges031np7i23962f10g53n1j8j42ugvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
